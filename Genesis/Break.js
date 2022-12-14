@@ -1,4 +1,5 @@
 // Creator: https://github.com/MrPeanutbutterz 
+/* this script weakens the security of a server, use arg to define target server with a delay */
 
 /** @param {NS} ns */
 export async function main(ns) {
